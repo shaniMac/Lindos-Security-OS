@@ -4,5 +4,5 @@ This is a student make's Python progress,it a system made by oneself.  At Beijin
 Official website: Official https://www.microsafe-lindos.mysxl.cn
 
 <p align="center">
-  <img src="./Lindos logo.jpg" width="300" alt="Logo" />
+  <img src="./Lindos%20logo.jpg" width="300" alt="Logo" />
 </p>
